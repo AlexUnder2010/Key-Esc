@@ -1,0 +1,18 @@
+c:\users\alexu\documents\visual studio 2015\Projects\Key Esc\Key Esc\bin\Debug\Key Esc.exe.config
+c:\users\alexu\documents\visual studio 2015\Projects\Key Esc\Key Esc\bin\Debug\Key Esc.exe
+c:\users\alexu\documents\visual studio 2015\Projects\Key Esc\Key Esc\bin\Debug\Key Esc.pdb
+c:\users\alexu\documents\visual studio 2015\Projects\Key Esc\Key Esc\obj\Debug\Key Esc.csprojResolveAssemblyReference.cache
+c:\users\alexu\documents\visual studio 2015\Projects\Key Esc\Key Esc\obj\Debug\Key_Esc.Form1.resources
+c:\users\alexu\documents\visual studio 2015\Projects\Key Esc\Key Esc\obj\Debug\Key_Esc.Properties.Resources.resources
+c:\users\alexu\documents\visual studio 2015\Projects\Key Esc\Key Esc\obj\Debug\Key Esc.csproj.GenerateResource.Cache
+c:\users\alexu\documents\visual studio 2015\Projects\Key Esc\Key Esc\obj\Debug\Key Esc.exe
+c:\users\alexu\documents\visual studio 2015\Projects\Key Esc\Key Esc\obj\Debug\Key Esc.pdb
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\Key Esc\Key Esc\bin\Debug\Key Esc.exe.config
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\Key Esc\Key Esc\bin\Debug\Key Esc.exe
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\Key Esc\Key Esc\bin\Debug\Key Esc.pdb
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\Key Esc\Key Esc\obj\Debug\Key Esc.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\Key Esc\Key Esc\obj\Debug\Key_Esc.Form1.resources
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\Key Esc\Key Esc\obj\Debug\Key_Esc.Properties.Resources.resources
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\Key Esc\Key Esc\obj\Debug\Key Esc.csproj.GenerateResource.Cache
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\Key Esc\Key Esc\obj\Debug\Key Esc.exe
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\Key Esc\Key Esc\obj\Debug\Key Esc.pdb
